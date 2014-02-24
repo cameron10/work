@@ -1,0 +1,8 @@
+
+
+def div(a,b):
+   answer = b/a
+   return (answer)
+   
+print (div(12,4))
+#expected outcome is 
